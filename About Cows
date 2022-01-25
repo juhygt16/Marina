@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+  <div class="menu">
+    <div class="container">
+      <div class="menu_inner">
+      <div class="logo">
+        <img src="img/cow.png" alt="">
+      </div>
+        <ul class="nav">
+          <li><a href="#">Домой</a></li>
+          <li><a href="#">Наши услуги</a></li>
+          <li><a href="#">Наши коровы</a></li>
+          <li><a href="#">Молоко</a></li>
+          <li><a href="#">Сено</a></li>
+          <li><a href="#">Быки</a></li>
+          <li><a href="#">Связаться с нами</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
